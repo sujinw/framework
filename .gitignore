@@ -1,0 +1,18 @@
+## NetBeans, Vim, WebStorm, PHPStorm cache files
+nbproject/*
+.idea/*
+*.swp
+*.swo
+*.swn
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
+## app
+/vendor
+/log
+/runtime
